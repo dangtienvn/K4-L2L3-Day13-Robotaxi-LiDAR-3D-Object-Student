@@ -39,3 +39,7 @@ student-bundles/
 # Unignore group submission folder for lab coach review
 !ket-qua-nhom-duoi-dai-sen-vang/
 !ket-qua-nhom-duoi-dai-sen-vang/**
+
+# Unignore VLearn report submission folder
+!report/
+!report/**
